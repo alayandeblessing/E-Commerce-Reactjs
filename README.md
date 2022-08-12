@@ -1,4 +1,4 @@
-View live demo: https://kaycelle-brand.vercel.app
+View live demo: https://e-commerce-reactjs-np1r3q6t0-alayandeblessing.vercel.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
